@@ -1,0 +1,1 @@
+httpsweather.comweathertodayl52,14par=google&temp=c
